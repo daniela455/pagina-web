@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pagina web</title>
+
+    <style>
+    body {background-color: azure;}
+    
+    </style>
+
+</head>
+<body>
+    <h1>Dependencia tecnológica</h1>
+
+    <h2>Qué es la dependencia tecnológica?</h2>
+
+        <p>Es un tipo de adicción en la que una persona no puede prescindir del uso de determinadas tecnologías y dispositivos.
+            Esta adicción puede llevar a que uno pierda por completo la capacidad de funcionar sin estas tecnologías...
+            Lo que puede tener un grave impacto negativo en su calidad de vida.</p>
+        
+    <h2>Dependencias tecnológicas más comunes</h2>
+
+        <h3>Redes sociales y mensajeros</h3>
+        <p>Las personas pueden pasar demasiado tiempo en las redes sociales y los mensajeros, reduciendo el tiempo que pasan en el mundo real. Además, esto les lleva a depender de actualizaciones constantes de noticias y mensajes.</p>
+        <img src="1.jpg.webp" width=300 alt="imagen">
+
+        <h3>Teléfonos inteligentes y tabletas</h3>
+        <p>Los teléfonos inteligentes y las tabletas pueden convertirse en la principal forma de comunicarse con el mundo, y la gente puede volverse dependiente de comprobar constantemente las notificaciones, retuitear y navegar por las redes sociales y los mensajeros.</p>
+        <img src="2.jpg" width=300 alt="imagen">
+
+        <h3>Juegos y entretenimiento en línea</h3>
+        <p>Los juegos y el ocio en línea pueden crear adicción y llevar a la gente a pasar demasiado tiempo en el mundo virtual en lugar de en la vida real.</p>
+        <img src="3.jpg" width=300 alt="imagen">
+
+        <h3>Compras por Internet y compras en línea</h3>
+        <p>Las personas pueden volverse adictas a las compras en línea, sobre todo si las utilizan para satisfacer necesidades emocionales.</p>
+        <img src="4.jpg" width=300 alt="imagen">
+
+        <h3>Servicios de vídeo y streaming en línea</h3>
+        <p>las personas pueden pasar demasiado tiempo en sitios web de alojamiento de vídeos y servicios de streaming, lo que puede provocar una pérdida de tiempo y un menor interés por el mundo real.</p>
+        <img src="6.jpg.webp" width=300 alt="imagen">
+
+        <h3>Programas y aplicaciones informáticas</h3>
+        <p>Las personas pueden volverse adictas a determinados programas y aplicaciones que pueden distraerlas de su trabajo o sus estudios.</p>
+        <img src="5.jpg.webp" width=300 alt="imagen">
+
+        <h3>Tecnologías de Inteligencia Artificial</h3>
+        <p>las personas pueden volverse dependientes del uso de tecnologías de inteligencia artificial, como los asistentes de voz, lo que puede provocar la degradación de las capacidades de comunicación y toma de decisiones.</p>
+        <img src="7.jpg.avif" width=300 alt="imagen">
+
+        <h3>Dispositivos domésticos inteligentes</h3>
+        <p>las personas pueden volverse dependientes del uso de dispositivos domésticos inteligentes, como los asistentes de voz, lo que puede provocar la degradación de las capacidades de comunicación y toma de decisiones.</p>
+        <img src="8.jpg" width=300 alt="imagen">
+
+        <h3>Tecnologías de realidad virtual y aumentada</h3>
+        <p>las personas pueden volverse dependientes del uso de las tecnologías de realidad virtual y aumentada, lo que puede provocar una disminución del interés por el mundo real y la degradación de las habilidades comunicativas.</p>
+        <img src="9.jpg" width=300 alt="imagen">
+
+    <h2>Soluciones</h2>
+
+        <p>Establecer límites sobre el tiempo que pasas en línea/en tus dispositivos</p>
+
+        <p>Diversifique sus intereses y actividades más allá del uso de la tecnología</p>
+
+        <p>Busca nuevas formas de conectar con el mundo que te rodea para reducir tu dependencia de las redes sociales y la mensajería</p>
+
+        <p>Intenta limitar el tiempo que pasas en el trabajo con el ordenador y tomar descansos (si es posible). Esto reducirá la tensión en tus ojos y te ayudará a despejar la mente antes de la siguiente sesión de trabajo</p>
+
+        <p>Si es posible, programe un tiempo libre de tecnología para relajarse y desconectar.</p>
+
+        <p>Intenta ser más consciente del uso que haces de la tecnología. Deberías preguntarte de vez en cuando: ¿me estoy volviendo demasiado dependiente de la tecnología?</p>
+
+    <img src="foto.jpg.webp" width=500 alt="imagen">
+
+</body>
+</html>
